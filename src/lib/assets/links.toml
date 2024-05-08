@@ -1,0 +1,20 @@
+[discord]
+name = "vendor sign-up"
+href = "https://discord.gg/SJeWaYEbh6"
+icon = "bi:shop"
+color = "white"
+background = "#251848"
+
+[instagram]
+name = "presenter sign-up"
+href = "https://instagram.com/tblgay"
+icon = "mdi:film-play-outline"
+color = "white"
+background = "#d65454"
+
+[contact]
+name = "contact"
+href = "mailto:tblgayinternal@yfs.ca"
+icon = "material-symbols:mail"
+color = "white"
+background = "#529d9d"

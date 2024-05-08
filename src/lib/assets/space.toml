@@ -1,0 +1,5 @@
+photo = "/space.jpg"
+open = [
+    { term = "Location", hours = "[TBD TBD TK TK TK]" },
+    { term = "Time", hours = "July 3rd, 6pm" },
+]
